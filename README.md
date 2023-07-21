@@ -1,4 +1,4 @@
-# fedorchukds-devops-33-1
+# Домашнее задание к занятию «Введение в DevOps»
 Задание 1. Подготовка рабочей среды
 Вы пришли на новое место работы или приобрели новый компьютер. Сначала надо настроить окружение для дальнейшей работы.
 
@@ -23,11 +23,16 @@ netology.yaml — YAML;
 netology.jsonnet — Jsonnet.
 Шаг 4. Убедитесь, что работает подсветка синтаксиса. Файлы должны выглядеть так:
 
-Terraform: Terraform
-Bash: bahs
-Markdown: markdown
-Yaml: Yaml
-Jsonnet: Jsonnet
-В качестве выполненного задания загрузите скриншоты установленной IDE с плагинами в файле README.md собственного репозитория в GitHub или в Google Doc.
+Terraform: ![image](https://github.com/DemoniumBlack/fedorchukds-devops-33-1/assets/139940695/83d96888-e359-489e-acd2-e14e401e8c40)
+
+Bash: ![image](https://github.com/DemoniumBlack/fedorchukds-devops-33-1/assets/139940695/25e3490b-654f-46b6-92ad-2131ad0d421a)
+
+Markdown: ![image](https://github.com/DemoniumBlack/fedorchukds-devops-33-1/assets/139940695/6e186afb-7880-4f79-8c5a-b1562b5f6c41)
+
+Yaml: ![image](https://github.com/DemoniumBlack/fedorchukds-devops-33-1/assets/139940695/c376bdc7-3255-456d-84d3-6341a101880b)
+
+Jsonnet: ![image](https://github.com/DemoniumBlack/fedorchukds-devops-33-1/assets/139940695/48774dfe-3942-49fa-950a-f0ea0962561b)
+
+*В качестве выполненного задания загрузите скриншоты установленной IDE с плагинами в файле README.md собственного репозитория в GitHub или в Google Doc.*
 
 
