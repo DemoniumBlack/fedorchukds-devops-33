@@ -48,39 +48,39 @@
 
 Для более удобной работы с домашним заданием склонировал ваш репозиторий на свой компьютер:
 
-![img.png](img.png)
+![img.png](IMG/img.png)
 
 А также зарегистрировался на github и создал свой репозиторий для предоставления отчета по этому заданию.
 Склонировал себе на компьютер свой репозиторий для более удобного заполнения отчета.
 
-![img_8.png](img_8.png)
+![img_8.png](IMG/img_8.png)
 
 
 Установил требуемые плагины:
 
-![img_2.png](img_2.png)
+![img_2.png](IMG/img_2.png)
 
 
 Проверяю подсветку синтаксиса в предоставленных вами файлах:
 * Terraform:
 
-![img_3.png](img_3.png)
+![img_3.png](IMG/img_3.png)
 
 * Bash:
 
-![img_4.png](img_4.png)
+![img_4.png](IMG/img_4.png)
 
 * Markdown:
 
-![img_5.png](img_5.png)
+![img_5.png](IMG/img_5.png)
 
 * Yaml:
 
-![img_6.png](img_6.png)
+![img_6.png](IMG/img_6.png)
 
 * Jsonnet:
 
-![img_7.png](img_7.png)
+![img_7.png](IMG/img_7.png)
 
 Итог: подсветка синтаксиса работает.
 
